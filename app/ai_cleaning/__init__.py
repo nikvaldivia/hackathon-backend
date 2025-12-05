@@ -1,2 +1,0 @@
-# AI Cleaning functionality module
-

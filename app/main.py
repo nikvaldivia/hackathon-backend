@@ -7,7 +7,7 @@ from contextlib import asynccontextmanager
 import logging
 
 from app.config import settings
-from app.database import connect_to_mongo, close_mongo_connection, mongodb, is_connected
+from app.db_config import connect_to_mongo, close_mongo_connection, mongodb, is_connected
 
 # Configurar logging
 logging.basicConfig(
@@ -35,7 +35,7 @@ async def lifespan(app: FastAPI):
 # Instancia global de la base de datos
 # Se puede usar en cualquier parte de la aplicación importando: from app.main import db
 # Nota: Se inicializa después de la conexión en el lifespan
-# Alternativamente, puedes usar: from app.database import get_database
+    # Alternativamente, puedes usar: from app.db_config import get_database
 db = None
 
 
@@ -69,15 +69,10 @@ app.add_middleware(
 )
 
 # Importar y registrar las rutas de cada funcionalidad
-# Las rutas se agregarán aquí cuando cada funcionalidad esté lista
-# Ejemplo:
-# from app.database.routes import router as database_router
-# from app.courses_api.routes import router as courses_api_router
-# from app.chat.routes import router as chat_router
-#
-# app.include_router(database_router, prefix="/api/database", tags=["database"])
-# app.include_router(courses_api_router, prefix="/api/courses", tags=["courses"])
-# app.include_router(chat_router, prefix="/api/chat", tags=["chat"])
+from app.courses_api.routes import router as courses_api_router
+
+# Registrar routers
+app.include_router(courses_api_router, prefix="/api", tags=["courses-api"])
 
 
 @app.get("/")

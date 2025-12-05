@@ -1,0 +1,495 @@
+[
+  {
+    "sigla": "MAT1620",
+    "nombre": "Cálculo 2",
+    "comentarios": "Series y sumatorias son un muro, pero después la parte bivariada se siente ligera."
+  },
+  {
+    "sigla": "MAT1620",
+    "nombre": "Cálculo 2",
+    "comentarios": "La prueba 1 es la que define el semestre, casi todos se caen ahí."
+  },
+  {
+    "sigla": "MAT1620",
+    "nombre": "Cálculo 2",
+    "comentarios": "Si sobrevives series, ya estás casi listo. El resto del curso es manejable."
+  },
+  {
+    "sigla": "MAT1620",
+    "nombre": "Cálculo 2",
+    "comentarios": "Las ayudantías ayudan caleta, pero hay que hacer muchos ejercicios por tu cuenta."
+  },
+  {
+    "sigla": "MAT1620",
+    "nombre": "Cálculo 2",
+    "comentarios": "Es más difícil que Cálculo 1 pero menos conceptual que Cálculo 3."
+  },
+
+  {
+    "sigla": "ICS1113",
+    "nombre": "Optimización",
+    "comentarios": "No es difícil conceptualmente pero demanda harto tiempo en tareas largas."
+  },
+  {
+    "sigla": "ICS1113",
+    "nombre": "Optimización",
+    "comentarios": "Si no entiendes bien dualidad al principio, se te hace eterno el semestre."
+  },
+  {
+    "sigla": "ICS1113",
+    "nombre": "Optimización",
+    "comentarios": "Los controles son traicioneros, salen cosas que no estaban en las diapositivas."
+  },
+  {
+    "sigla": "ICS1113",
+    "nombre": "Optimización",
+    "comentarios": "El ramo es bonito pero pesadísimo. Hay que practicar mucho simplex."
+  },
+  {
+    "sigla": "ICS1113",
+    "nombre": "Optimización",
+    "comentarios": "La parte de programación entera cuesta, pero las ayudantías salvan."
+  },
+
+  {
+    "sigla": "FIS1533",
+    "nombre": "Electricidad y Magnetismo",
+    "comentarios": "La parte de magnetismo es mortal, nada que ver con mecánica."
+  },
+  {
+    "sigla": "FIS1533",
+    "nombre": "Electricidad y Magnetismo",
+    "comentarios": "Las integrales de campo eléctrico son un dolor de cabeza."
+  },
+  {
+    "sigla": "FIS1533",
+    "nombre": "Electricidad y Magnetismo",
+    "comentarios": "Si no entiendes bien Gauss, literalmente no pasas."
+  },
+  {
+    "sigla": "FIS1533",
+    "nombre": "Electricidad y Magnetismo",
+    "comentarios": "Es uno de los ramos más pesados de física, pero muy bonito si te gusta."
+  },
+  {
+    "sigla": "FIS1533",
+    "nombre": "Electricidad y Magnetismo",
+    "comentarios": "Las pruebas son largas y siempre falta tiempo."
+  },
+
+  {
+    "sigla": "FIS1523",
+    "nombre": "Termodinámica",
+    "comentarios": "Más conceptual que matemático, pero igual te destruye si no estudias constantemente."
+  },
+  {
+    "sigla": "IIQ1003",
+    "nombre": "Termodinámica",
+    "comentarios": "Los diagramas y ciclos son lo que más cuesta, pero las ayudantías son clave."
+  },
+  {
+    "sigla": "FIS1523",
+    "nombre": "Termodinámica",
+    "comentarios": "Es fácil perderse entre tantas definiciones de energía, calor y trabajo."
+  },
+  {
+    "sigla": "IIQ1003",
+    "nombre": "Termodinámica",
+    "comentarios": "Las pruebas dependen mucho del profe, algunas son conceptuales y otras puras cuentas."
+  },
+  {
+    "sigla": "FIS1523",
+    "nombre": "Termodinámica",
+    "comentarios": "El final siempre sorprende, nunca sale lo que uno espera jaja."
+  },
+
+  {
+    "sigla": "IIC2233",
+    "nombre": "Programación Avanzada",
+    "comentarios": "Las tareas consumen la vida pero aprendes demasiado."
+  },
+  {
+    "sigla": "IIC2233",
+    "nombre": "Programación Avanzada",
+    "comentarios": "Si empiezas una tarea tarde estás frito, todas son largas."
+  },
+  {
+    "sigla": "IIC2233",
+    "nombre": "Programación Avanzada",
+    "comentarios": "Los contenidos son entretenidos, pero harta depuración."
+  },
+  {
+    "sigla": "IIC2233",
+    "nombre": "Programación Avanzada",
+    "comentarios": "Es el ramo que más me hizo programar en serio, pero sufrí igual."
+  },
+  {
+    "sigla": "IIC2233",
+    "nombre": "Programación Avanzada",
+    "comentarios": "Los controles son sorpresivos y muy técnicos."
+  },
+
+  {
+    "sigla": "EYP1113",
+    "nombre": "Probabilidades y Estadística",
+    "comentarios": "Es un ramo que parte suave pero termina super matemático."
+  },
+  {
+    "sigla": "EYP1113",
+    "nombre": "Probabilidades y Estadística",
+    "comentarios": "La parte de distribuciones es larga, pero repetitiva."
+  },
+  {
+    "sigla": "EYP1113",
+    "nombre": "Probabilidades y Estadística",
+    "comentarios": "Los ejercicios engañan, parecen fáciles pero esconden trampas."
+  },
+  {
+    "sigla": "EYP1113",
+    "nombre": "Probabilidades y Estadística",
+    "comentarios": "La prueba de probabilidad condicional fue un desastre para todos."
+  },
+  {
+    "sigla": "EYP1113",
+    "nombre": "Probabilidades y Estadística",
+    "comentarios": "Si no practicas, es imposible."
+  },
+
+  {
+    "sigla": "QIM122",
+    "nombre": "Análisis Forense",
+    "comentarios": "Harto laboratorio y harto informe, pero interesante."
+  },
+  {
+    "sigla": "QIM122",
+    "nombre": "Análisis Forense",
+    "comentarios": "No es difícil, pero es demasiado trabajo en grupo."
+  },
+  {
+    "sigla": "QIM122",
+    "nombre": "Análisis Forense",
+    "comentarios": "Si te gusta la parte práctica lo vas a disfrutar."
+  },
+  {
+    "sigla": "QIM122",
+    "nombre": "Análisis Forense",
+    "comentarios": "Los análisis son largos, pero no son difíciles."
+  },
+  {
+    "sigla": "QIM122",
+    "nombre": "Análisis Forense",
+    "comentarios": "Las evaluaciones prácticas son mucho más fáciles que las teóricas."
+  },
+
+  {
+    "sigla": "BIO141C",
+    "nombre": "Biología de la Célula",
+    "comentarios": "Demasiada materia, si no estudias cada semana te pierdes."
+  },
+  {
+    "sigla": "BIO141C",
+    "nombre": "Biología de la Célula",
+    "comentarios": "El ramo es precioso pero las pruebas son kilométricas."
+  },
+  {
+    "sigla": "BIO141C",
+    "nombre": "Biología de la Célula",
+    "comentarios": "Memorizar caminos metabólicos es horrible."
+  },
+  {
+    "sigla": "BIO141C",
+    "nombre": "Biología de la Célula",
+    "comentarios": "Los labs ayudan caleta a subir nota."
+  },
+  {
+    "sigla": "BIO141C",
+    "nombre": "Biología de la Célula",
+    "comentarios": "Hay profes muy buenos que explican super claro."
+  },
+
+  {
+    "sigla": "FIL2006",
+    "nombre": "Introducción a la Argumentación",
+    "comentarios": "Ramo livianito, solo leer y comentar textos."
+  },
+  {
+    "sigla": "FIL2006",
+    "nombre": "Introducción a la Argumentación",
+    "comentarios": "Las evaluaciones son escribir ensayos cortos, nada terrible."
+  },
+  {
+    "sigla": "FIL2006",
+    "nombre": "Introducción a la Argumentación",
+    "comentarios": "Se aprende harto para escribir mejor."
+  },
+  {
+    "sigla": "FIL2006",
+    "nombre": "Introducción a la Argumentación",
+    "comentarios": "Las clases son tranquilas, la mayoría pasa con buena nota."
+  },
+  {
+    "sigla": "FIL2006",
+    "nombre": "Introducción a la Argumentación",
+    "comentarios": "Es el teológico de filosofía jaja, suavecito."
+  },
+
+  {
+    "sigla": "DPT6500",
+    "nombre": "Tenis 1",
+    "comentarios": "Super entretenido, pero igual cansa más de lo que uno cree."
+  },
+  {
+    "sigla": "DPT6500",
+    "nombre": "Tenis 1",
+    "comentarios": "El profe es muy tela, se aprende harto sin presión."
+  },
+  {
+    "sigla": "DPT6500",
+    "nombre": "Tenis 1",
+    "comentarios": "Mientras vayas a clases y participes, pasas sí o sí."
+  },
+  {
+    "sigla": "DPT6500",
+    "nombre": "Tenis 1",
+    "comentarios": "Recomiendo sección de la mañana, hay más energía."
+  },
+  {
+    "sigla": "DPT6500",
+    "nombre": "Tenis 1",
+    "comentarios": "No es exigente para nada, pero te sirve de desconexión."
+  },
+
+  {
+    "sigla": ["FIS0154","ICE1514"],
+    "nombre": "Dinámica",
+    "comentarios": "Mucho más difícil que estática, te exige pensar distinto."
+  },
+  {
+    "sigla": ["FIS0154","ICE1514"],
+    "nombre": "Dinámica",
+    "comentarios": "Las pruebas son largas y siempre falta tiempo."
+  },
+  {
+    "sigla": ["FIS0154","ICE1514"],
+    "nombre": "Dinámica",
+    "comentarios": "Es pura física aplicada, si no entiendes bien lo base es imposible."
+  },
+  {
+    "sigla": ["FIS0154","ICE1514"],
+    "nombre": "Dinámica",
+    "comentarios": "La parte de energías y trabajo es lo más fácil."
+  },
+  {
+    "sigla": ["FIS0154","ICE1514"],
+    "nombre": "Dinámica",
+    "comentarios": "Bonito pero pelúo, un ramo que marca."
+  },
+
+  {
+    "sigla": "IIC1103",
+    "nombre": "Introducción a la Programación",
+    "comentarios": "Es un ramo intenso si nunca has programado, pero se puede."
+  },
+  {
+    "sigla": "IIC1103",
+    "nombre": "Introducción a la Programación",
+    "comentarios": "Las tareas son largas pero no difíciles."
+  },
+  {
+    "sigla": "IIC1103",
+    "nombre": "Introducción a la Programación",
+    "comentarios": "Recomiendo empezar las tareas el mismo día que salen."
+  },
+  {
+    "sigla": "IIC1103",
+    "nombre": "Introducción a la Programación",
+    "comentarios": "Si vas a ayudantías aprendes demasiado rápido."
+  },
+  {
+    "sigla": "IIC1103",
+    "nombre": "Introducción a la Programación",
+    "comentarios": "Es de los ramos más útiles de toda la carrera."
+  },
+
+  {
+    "sigla": "MAT1630",
+    "nombre": "Cálculo 3",
+    "comentarios": "El más difícil de los cálculos, sin duda."
+  },
+  {
+    "sigla": "MAT1630",
+    "nombre": "Cálculo 3",
+    "comentarios": "Stokes y Gauss son otro nivel de sufrimiento."
+  },
+  {
+    "sigla": "MAT1630",
+    "nombre": "Cálculo 3",
+    "comentarios": "Integrales de línea parecen fáciles al inicio y después te destruyen."
+  },
+  {
+    "sigla": "MAT1630",
+    "nombre": "Cálculo 3",
+    "comentarios": "Se necesita madurez matemática, no basta con memorizar."
+  },
+  {
+    "sigla": "MAT1630",
+    "nombre": "Cálculo 3",
+    "comentarios": "La geometría del ramo es preciosa cuando la entiendes."
+  },
+
+  {
+    "sigla": "MAT1640",
+    "nombre": "Ecuaciones Diferenciales",
+    "comentarios": "Largo, técnico y mucha cuenta. Pero no es imposible."
+  },
+  {
+    "sigla": "MAT1640",
+    "nombre": "Ecuaciones Diferenciales",
+    "comentarios": "Las transformadas de Laplace son lo mejor del ramo."
+  },
+  {
+    "sigla": "MAT1640",
+    "nombre": "Ecuaciones Diferenciales",
+    "comentarios": "Hay demasiados métodos y fácil confundirse."
+  },
+  {
+    "sigla": "MAT1640",
+    "nombre": "Ecuaciones Diferenciales",
+    "comentarios": "Si te gusta cálculo, este te va a gustar."
+  },
+  {
+    "sigla": "MAT1640",
+    "nombre": "Ecuaciones Diferenciales",
+    "comentarios": "La parte de sistemas es la más conceptual."
+  },
+
+  {
+    "sigla": "TTF202",
+    "nombre": "Búsqueda Religiosa y Cristianismo",
+    "comentarios": "Super piola, evaluaciones fáciles y mucho diálogo."
+  },
+  {
+    "sigla": "TTF202",
+    "nombre": "Búsqueda Religiosa y Cristianismo",
+    "comentarios": "Ramo liviano, si participas pasas con buena nota."
+  },
+  {
+    "sigla": "TTF202",
+    "nombre": "Búsqueda Religiosa y Cristianismo",
+    "comentarios": "Los textos no son largos, se puede llevar bien."
+  },
+  {
+    "sigla": "TTF202",
+    "nombre": "Búsqueda Religiosa y Cristianismo",
+    "comentarios": "Literal es de los teológicos más fáciles."
+  },
+  {
+    "sigla": "TTF202",
+    "nombre": "Búsqueda Religiosa y Cristianismo",
+    "comentarios": "Todo depende del profe, pero en general suavecito."
+  },
+
+  {
+    "sigla": "ICS1513",
+    "nombre": "Introducción a la Economía",
+    "comentarios": "Micro es fácil, macro es más latera pero manejable."
+  },
+  {
+    "sigla": "ICS1513",
+    "nombre": "Introducción a la Economía",
+    "comentarios": "Las gráficas son todo, si las entiendes pasas."
+  },
+  {
+    "sigla": "ICS1513",
+    "nombre": "Introducción a la Economía",
+    "comentarios": "Las pruebas suelen tener preguntas muy rebuscadas."
+  },
+  {
+    "sigla": "ICS1513",
+    "nombre": "Introducción a la Economía",
+    "comentarios": "El ramo depende harto del profe, algunos lo hacen fácil y otros imposible."
+  },
+  {
+    "sigla": "ICS1513",
+    "nombre": "Introducción a la Economía",
+    "comentarios": "Los ejercicios son más importantes que las lecturas."
+  },
+
+  {
+    "sigla": "ETI188",
+    "nombre": "Ética para Ingeniería",
+    "comentarios": "Muy conversa’o, las evaluaciones no son difíciles."
+  },
+  {
+    "sigla": "ETI188",
+    "nombre": "Ética para Ingeniería",
+    "comentarios": "Escribir reflexiones es lo más pesado, pero igual fácil."
+  },
+  {
+    "sigla": "ETI188",
+    "nombre": "Ética para Ingeniería",
+    "comentarios": "Se pasa con buena nota si cumples con los trabajos."
+  },
+  {
+    "sigla": "ETI188",
+    "nombre": "Ética para Ingeniería",
+    "comentarios": "Los profes suelen ser muy tela."
+  },
+  {
+    "sigla": "ETI188",
+    "nombre": "Ética para Ingeniería",
+    "comentarios": "No es demandante, sirve para desconectar un poco."
+  },
+
+  {
+    "sigla": "ICS2123",
+    "nombre": "Modelos Estocásticos",
+    "comentarios": "Duro y matemático, pero muy útil."
+  },
+  {
+    "sigla": "ICS2123",
+    "nombre": "Modelos Estocásticos",
+    "comentarios": "Las cadenas de Markov confunden al principio."
+  },
+  {
+    "sigla": "ICS2123",
+    "nombre": "Modelos Estocásticos",
+    "comentarios": "No es imposible, pero hay que practicar mucho."
+  },
+  {
+    "sigla": "ICS2123",
+    "nombre": "Modelos Estocásticos",
+    "comentarios": "Los ejemplos de clase ayudan caleta."
+  },
+  {
+    "sigla": "ICS2123",
+    "nombre": "Modelos Estocásticos",
+    "comentarios": "La prueba final es la más difícil."
+  },
+
+  {
+    "sigla": "ING2030",
+    "nombre": "Investigación, Innovación y Emprendimiento",
+    "comentarios": "El ramo es pura presentación y trabajo grupal."
+  },
+  {
+    "sigla": "ING2030",
+    "nombre": "Investigación, Innovación y Emprendimiento",
+    "comentarios": "Si tu grupo funciona, es el ramo más fácil del semestre."
+  },
+  {
+    "sigla": "ING2030",
+    "nombre": "Investigación, Innovación y Emprendimiento",
+    "comentarios": "Se aprende harto a presentar, pero es harta pega."
+  },
+  {
+    "sigla": "ING2030",
+    "nombre": "Investigación, Innovación y Emprendimiento",
+    "comentarios": "Casi no hay pruebas, puro trabajo práctico."
+  },
+  {
+    "sigla": "ING2030",
+    "nombre": "Investigación, Innovación y Emprendimiento",
+    "comentarios": "Es un ramo entretenido si te gusta el emprendimiento."
+  }
+]

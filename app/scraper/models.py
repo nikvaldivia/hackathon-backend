@@ -1,2 +1,0 @@
-# Scraper models placeholder
-
