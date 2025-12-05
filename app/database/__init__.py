@@ -1,5 +1,7 @@
 """
 Funciones para consultar MongoDB
+
+Este módulo trabaja EXCLUSIVAMENTE con la colección cursos_filtrados.
 """
 # Exportar funciones de queries para fácil acceso
 from app.database.queries import (
@@ -8,7 +10,19 @@ from app.database.queries import (
     find_one,
     find_many,
     count_documents,
-    # Funciones para cursos_filtrados (PRINCIPAL)
+    # Funciones nuevas (recomendadas)
+    get_course_by_id,
+    get_course_by_nrc,
+    get_courses_by_course_code,
+    get_courses_by_course_name,
+    get_courses_by_professor,
+    get_courses_by_course_rating,
+    get_courses_by_professor_rating,
+    get_courses_by_workload,
+    get_courses_by_difficulty_level,
+    get_all_courses,
+    search_courses,
+    # Funciones de compatibilidad (nombres antiguos)
     get_curso_filtrado_by_id,
     get_curso_filtrado_by_nrc,
     get_cursos_filtrados_by_sigla,
@@ -19,23 +33,7 @@ from app.database.queries import (
     get_cursos_filtrados_by_carga_academica,
     get_all_cursos_filtrados,
     search_cursos_filtrados,
-    # Funciones para cursos_scrapeados
-    get_curso_scrapeado_by_id,
-    get_curso_scrapeado_by_nrc,
-    get_cursos_scrapeados_by_sigla,
-    get_all_cursos_scrapeados,
-    # Funciones para programas_cursos
-    get_programa_by_id,
-    get_programa_by_sigla,
-    get_programa_by_nrc,
-    get_all_programas,
-    # Funciones para comentarios_cursos
-    get_comentario_by_id,
-    get_comentarios_by_sigla,
-    get_comentarios_by_nrc,
-    get_comentarios_by_profesor,
-    get_all_comentarios,
-    # Funciones para profesores
+    # Funciones para profesores (extraídas de cursos_filtrados)
     get_profesor_by_id,
     get_profesor_by_nombre,
     get_all_profesores,

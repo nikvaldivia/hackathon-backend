@@ -72,7 +72,7 @@ app.add_middleware(
 from app.courses_api.routes import router as courses_api_router
 
 # Registrar routers
-app.include_router(courses_api_router, prefix="/api", tags=["courses-api"])
+app.include_router(courses_api_router, prefix="/api")
 
 
 @app.get("/")
