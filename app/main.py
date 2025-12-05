@@ -70,9 +70,11 @@ app.add_middleware(
 
 # Importar y registrar las rutas de cada funcionalidad
 from app.courses_api.routes import router as courses_api_router
+from app.chat.routes import router as chat_router
 
 # Registrar routers
 app.include_router(courses_api_router, prefix="/api")
+app.include_router(chat_router, prefix="/api")
 
 
 @app.get("/")
