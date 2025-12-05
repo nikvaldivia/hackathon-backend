@@ -1,0 +1,19 @@
+# FastAPI y servidor
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+
+# MongoDB
+motor
+pymongo
+
+# Gemini API
+google-generativeai
+
+# Utilidades
+python-dotenv
+python-multipart
+
+
+
