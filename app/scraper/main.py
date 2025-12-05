@@ -1,0 +1,2 @@
+# Scraper main functionality placeholder
+
